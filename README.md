@@ -1,4 +1,4 @@
-Programme python pour enregistrer automatiquement des jeux flash qui contiennent plusieurs fichier (Action Script 3):
+Programme python pour enregistrer automatiquement des jeux flash qui contiennent plusieurs fichiers (Action Script 3):
   -Parcours des fichiers XML
   -Téléchargement
   -Déplacement dans le dossier et sous dossier
