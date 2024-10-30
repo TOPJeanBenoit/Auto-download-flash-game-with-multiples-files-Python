@@ -16,7 +16,7 @@ Exécuter la fonction sort_file()
 sort_files(
 {"nom": Nom du dossier qui va être créé pour installer le jeu,
 "lien principal": Lien complet du fichier principal du jeu,
-"autres fichiers": Liste des liens relatif au fichier principal des autres fichiers (XML ou autre, affiché lors de l'exécution du main si nécessaire dans le debugger flash)
+"autres fichiers": Liste des liens relatifs au fichier principal des autres fichiers (XML ou autre, affiché lors de l'exécution du main si nécessaire dans le debugger flash)
 })
 
 Note: si l'emplacement d'un fichier XML est indiqué par un autre fichier XML il est possible que le programme ne le détecte pas alors il faut l'ajouter à la liste "autres fichiers"
