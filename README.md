@@ -21,7 +21,7 @@ sort_files(
 
 Note: si l'emplacement d'un fichier XML est indiqué par un autre fichier XML il est possible que le programme ne le détecte pas alors il faut l'ajouter à la liste "autres fichiers"
 
-Pour savoir si un jeu nécessite un d'autres fichier il faut utiliser le Flash Player Standalone Debugger trouvable ici:
+Pour savoir si un jeu nécessite d'autres fichiers il faut utiliser le Flash Player Standalone Debugger trouvable ici:
 https://archive.org/details/adobeflash_debug_downloads
 
 Si le jeu ne fonctionne toujours pas vérifiez le code source du jeu avec le décompileur JPEXS:
